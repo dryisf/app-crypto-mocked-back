@@ -1,0 +1,64 @@
+{
+  "cryptos": [
+    {
+      "id": 1,
+      "name": "Bitcoin",
+      "eur_price": 29530.8,
+      "img": "https://s2.coinmarketcap.com/static/img/coins/128x128/1.png"
+    },
+    {
+      "id": 2,
+      "name": "Ethereum",
+      "eur_price": 1809.46,
+      "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/1027.png"
+    },
+    {
+      "id": 3,
+      "name": "Tether",
+      "eur_price": 0.9317,
+      "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/825.png"
+    },
+    {
+      "id": 4,
+      "name": "USD Coin",
+      "eur_price": 0.9326,
+      "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/3408.png"
+    },
+    {
+      "id": 5,
+      "name": "BNB",
+      "eur_price": 298.21,
+      "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/1839.png"
+    },
+    {
+      "id": 6,
+      "name": "Cardano",
+      "eur_price": 0.5752,
+      "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/2010.png"
+    },
+    {
+      "id": 7,
+      "name": "XRP",
+      "eur_price": 0.39,
+      "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/52.png"
+    },
+    {
+      "id": 8,
+      "name": "Binance USD",
+      "eur_price": 0.9328,
+      "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/4687.png"
+    },
+    {
+      "id": 9,
+      "name": "Solana",
+      "eur_price": 42.09,
+      "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png"
+    },
+    {
+      "id": 10,
+      "name": "Dogecoin",
+      "eur_price": 0.08132,
+      "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/74.png"
+    }
+  ]
+}
