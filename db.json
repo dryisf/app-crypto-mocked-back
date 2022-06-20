@@ -1,4 +1,18 @@
 {
+  "wallet": [
+    {
+      "crypto": "Bitcoin",
+      "amount": 20
+    },
+    {
+      "crypto": "Ethereum",
+      "amount": 5
+    },
+    {
+      "crypto": "Tether",
+      "amount": 6
+    }
+  ],
   "cryptos": [
     {
       "id": 1,
