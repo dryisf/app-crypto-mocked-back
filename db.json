@@ -1,10 +1,47 @@
 {
+  "user": [
+    {
+      "email": "dryisf@mail.com",
+      "password": "test12345",
+      "id": 1
+    },
+    {
+      "email": "test@m.com",
+      "password": "test12345",
+      "id": 2
+    }
+  ],
+  "wallet": [
+    {
+      "balance": 200,
+      "userId": 1,
+      "coins": [
+        {
+          "crypto": "Bitcoin",
+          "amount": 20
+        },
+        {
+          "crypto": "Ethereum",
+          "amount": 9
+        },
+        {
+          "crypto": "Tether",
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "balance": 500,
+      "userId": 2,
+      "coins": []
+    }
+  ],
   "cryptos": [
     {
       "id": 1,
       "name": "Bitcoin",
       "eur_price": 29530.8,
-      "img": "https://s2.coinmarketcap.com/static/img/coins/128x128/1.png"
+      "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/1.png"
     },
     {
       "id": 2,
